@@ -1,6 +1,6 @@
-﻿import java.util.List;
-public class Admin {
-	private List<Emp> emps;
+﻿package cn.mldn.hr.vo;
+import java.io.*;
+public class Admin implememts Serializable {
 	private String aid;
-	private List<Action> actions;
+	private String password;
 }
