@@ -1,6 +1,5 @@
-﻿import java.util.List;
+﻿package cn.mldn.demo;
 public class Admin {
-	private List<Emp> emps;
 	private String aid;
-	private List<Action> actions;
+	private String password;
 }
