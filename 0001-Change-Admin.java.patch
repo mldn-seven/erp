@@ -1,0 +1,23 @@
+From fc5a72d1282bc3166b18aefd98fb21bcfe48e7ab Mon Sep 17 00:00:00 2001
+From: mldn <mldnqa@163.com>
+Date: Thu, 12 Oct 2017 19:39:59 +0800
+Subject: [PATCH] Change Admin.java
+
+---
+ Admin.java | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/Admin.java b/Admin.java
+index a447aba..d947f59 100644
+--- a/Admin.java
++++ b/Admin.java
+@@ -2,4 +2,5 @@
+ public class Admin {
+ 	private List<Emp> emps;
+ 	private Integer aid;
++	private String aid;
+ }
+\ No newline at end of file
+-- 
+2.14.2.windows.2
+
