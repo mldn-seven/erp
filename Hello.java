@@ -4,7 +4,6 @@
 		Admin admin=new Admin();
 		Emp emp=new Emp();
 	System.out.println("临近中午，适合学习！");
-	System.out.println("临近中午，适合学习！");
-	System.out.println("临近中午，适合学习！");
+	
 	}
 }
